@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/adam/projects/OSMemoryMap/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/osmemorymap.dir/main.c.o -c /home/adam/projects/OSMemoryMap/main.c",
+  "file": "/home/adam/projects/OSMemoryMap/main.c"
+}
+]

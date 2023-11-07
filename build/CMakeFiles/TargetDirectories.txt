@@ -1,0 +1,7 @@
+/home/adam/projects/OSMemoryMap/build/CMakeFiles/osmemorymap.dir
+/home/adam/projects/OSMemoryMap/build/CMakeFiles/edit_cache.dir
+/home/adam/projects/OSMemoryMap/build/CMakeFiles/rebuild_cache.dir
+/home/adam/projects/OSMemoryMap/build/CMakeFiles/list_install_components.dir
+/home/adam/projects/OSMemoryMap/build/CMakeFiles/install.dir
+/home/adam/projects/OSMemoryMap/build/CMakeFiles/install/local.dir
+/home/adam/projects/OSMemoryMap/build/CMakeFiles/install/strip.dir
